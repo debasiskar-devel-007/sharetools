@@ -1,19 +1,11 @@
-{
-  "name": "sharetools",
-  "version": "0.0.1",
-  "peerDependencies": {
-    "@angular/common": "^7.2.0",
-    "@angular/core": "^7.2.0"
-  }
-}
 
 {
   "name": "sharetools-lib-influxiq",
   "version": "0.0.1",
-  "bugs": "https://github.com/debasiskar-devel-007/image-gallery/issues",
+  "bugs": "https://github.com/debasiskar-devel-007/sharetools/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/debasiskar-devel-007/image-gallery.git"
+    "url": "https://github.com/debasiskar-devel-007/sharetools.git"
   },
   "devDependencies": {
     "@angular/common": "^7.2.0",
